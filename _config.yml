@@ -9,7 +9,7 @@ version: 2
 name: Fernando Daniel Albertengo
 title: Ssr. Fullstack Developer
 email: fernando.albertengo@gmail.com
-website: https://github.com/Pra3t0r5/Pra3t0r5
+website: https://github.com/Pra3t0r5/Pra3t0r5.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,7 +33,7 @@ linkedin_username: fernando-albertengo20
 additional_links:
 - title: falbertengo.dev
   icon: fas fa-globe
-  url: https://github.com/Pra3t0r5/Pra3t0r5
+  url: https://github.com/Pra3t0r5/Pra3t0r5.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
