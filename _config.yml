@@ -98,7 +98,6 @@ content:
       - layout: top-middle
         title: UcQr App
         link: https://play.google.com/store/apps/details?id=com.UltraCore.UcQR&hl=es
-        link_text: Playstore link
         additional_links:
           - title:  Milicic S.A
             icon: fab fa-globe
@@ -116,7 +115,7 @@ content:
         sub_title: Ssr. Frontend Developer
         caption: October 2021 - March 2022
         description: | # this will include new lines to allow paragraphs
-          Frontend refactoring and implementation of Tecso's Simple Insurance API Project (SIAPI) with <mark>Angular 11</mark>.
+          - Frontend <mark>Angular 11</mark> Client implementation for Tecso's Simplified Insurance API Project (SIAPI), intended to give a developer-friendly experience when integrating to insurance data by creating a new standard API protocol.
 
       - layout: left
         title: Crucijuegos SRL
