@@ -31,12 +31,12 @@ linkedin_username: fernando-albertengo20
 
 # Additional icon links
 additional_links:
-- title: falbertengo.dev
-  icon: fas fa-globe
-  url: https://github.com/Pra3t0r5/Pra3t0r5.github.io
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Calendly
+  icon: fas fa-calendar-plus
+  url: https://calendly.com/falbertengo
+# - title: falbertengo.dev
+#   icon: fas fa-globe
+#   url: https://github.com/Pra3t0r5/Pra3t0r5.github.io
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
