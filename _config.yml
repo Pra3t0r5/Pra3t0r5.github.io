@@ -9,7 +9,7 @@ version: 2
 name: Fernando Daniel Albertengo
 title: Ssr. Fullstack Developer
 email: fernando.albertengo@gmail.com
-# meetings: https://calendly.com/falbertengo
+web: https://calendly.com/falbertengo
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -64,8 +64,6 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>SASS &amp; CSS</mark>,
   <mark>git</mark> and 
   <mark>Firebase</mark>.
-
-  You can easily contact me on my Calendly: https://calendly.com/falbertengo
 
 content:
   - title: Projects # Title for the section
