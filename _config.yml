@@ -47,7 +47,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   Hi, my name is Fernando Albertengo, I'm a full stack crossplatform developer with over 4 years experience currently specialising in React Native development.
   I am currently working on Trique as a Fullstack Software Engineer and Proyect Manager on their social media app.
   
@@ -66,23 +66,19 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Firebase</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Trique App
         link: https://triqueapp.com/
-        # link_text: Project Website
         additional_links:
           - title:  Social Media
             icon: fab fa-instagram
             url: https://www.instagram.com/triqueapp/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The social network of agriculture.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Full-Stack development of social media application, based on monorepo-structured crossplatform <mark>MERN+ Stack</mark>, featuring both <mark>MongoDB</mark> and <mark>MariaDB</mark> connections, and a wide variety of third-party integrations with <mark>Google Cloud Services</mark>, <mark>Firebase</mark> (Auth/Messaging/Firestore), <mark>Apple Auth</mark>, <mark>Admob</mark>, and much more. Another of my main roles as of today are Project Management, Team lead, Tech Consultant.
 
       - layout: top-middle
@@ -92,7 +88,7 @@ content:
           - title:  Crucijuegos SRL
             icon: fab fa-globe
             url: https://salas.crucijuegos.com/
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Full-Stack implementation of Customer Engagement mobile app, based on <mark>M*EAN Rational Stack</mark>. Featuring <mark>Ionic-Cordova</mark> and integrated to <mark>Twilio</mark>, <mark>OneSignal</mark>, <mark>FCM</mark> and <mark>MercadoPago</mark>.
       
       - layout: top-middle
@@ -102,28 +98,26 @@ content:
           - title:  Milicic S.A
             icon: fab fa-globe
             url: http://www.milicic.com.ar/
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           An <mark>Android Native</mark> app used by Milicic S.A. to scan QR codes on the sides of material transport trucks sending them to a dedicated API, wich registered the data lately used for various purposes.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Tecso Coop.
         link: https://tecso.coop/
-        # link_text: boringcompany.com
         sub_title: Ssr. Frontend Developer
         caption: October 2021 - March 2022
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           - Frontend <mark>Angular 11</mark> Client implementation for Tecso's Simplified Insurance API Project (SIAPI), intended to give a developer-friendly experience when integrating to insurance data by creating a new standard API protocol.
 
       - layout: left
         title: Crucijuegos SRL
         link: http://www.crucijuegos.com/
-        # link_text: boringcompany.com
         sub_title: Fullstack Developer
         caption: August 2018 - September 2021
-        description: | # this will include new lines to allow paragraphs - Full-Stack implementation of Customer Engagement mobile app, based on <mark>M*EAN Rational Stack</mark>. Featuring <mark>Ionic-Cordova</mark> and integrated to <mark>Twilio</mark>, <mark>OneSignal</mark>, <mark>FCM</mark> and <mark>MercadoPago</mark>.
+        description: | # - Full-Stack implementation of Customer Engagement mobile app, based on <mark>M*EAN Rational Stack</mark>. Featuring <mark>Ionic-Cordova</mark> and integrated to <mark>Twilio</mark>, <mark>OneSignal</mark>, <mark>FCM</mark> and <mark>MercadoPago</mark>.
           - Full-Stack implementation of Customer Engagement desktop app, based on <mark>M*EAN Rational Stack</mark> with <mark>Electron.js</mark> as wrapper. Featured RFID card readers, giant touch screen, games and remote database connection.
           - Full-Stack Web Development and Maintenance of legacy Administrative Systems with <mark>Java Spring/Hibernate</mark>, boasting more of 25 international <mark>MySQL</mark> databases.
           - Full-Stack Desktop Development and Maintenance of legacy CRM Systems with <mark>Java Swing</mark>.
@@ -133,17 +127,20 @@ content:
       - layout: left
         title: Ultracore SRL
         link: https://www.ultracore.com.ar/
-        # link_text: boringcompany.com
         sub_title: Freelancer
         caption: January 2020 - June 2021
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           - Mobile app desing and development, starting with <mark>Android Native</mark>, lately migrating to <mark>React Native</mark> using Infinite Red's <mark>Ignite Boilerplate</mark>.
           - Web development of a LMS.
           - Design, development and manufacture of <mark>Arduino</mark> based low-cost security system for workplaces, boasting web server and remote database connection.
           - Tech consultant.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Languages
+    layout: list
+    content:
+      - layout: top-middle
+        title: Spanish&#58; Native, English&#58; C1 Advanced
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Universidad Tecnologica Nacional
@@ -151,12 +148,12 @@ content:
         sub_title: Systems Engineering
         quote: >
           The National Technological University (UTN) was created to generate, preserve and transmit universal cultural and technical knowledge in the field of technology, being the only national university in the country with engineering as the central focus of its academic structure.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           During my time at UTN I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Alongside my interest in software engineering some of my other interests and hobbies are:
       - Cycling
       - Gaming
@@ -165,7 +162,6 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
