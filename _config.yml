@@ -138,7 +138,11 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Spanish&#58; Native, English&#58; C1 Advanced
+        title: English
+        sub_title: C1 - Advanced
+      - layout: top-middle
+        title: Spanish 
+        sub_title: Native
   - title: Education
     layout: list
     content:
