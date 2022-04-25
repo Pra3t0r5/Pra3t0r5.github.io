@@ -1,28 +1,28 @@
 # Site
-repository: Pra3t0r5/Pra3t0r5.github.io
+repository: benitezluciano/benitezluciano.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Fernando Daniel Albertengo
-title: Ssr. Fullstack Developer
-email: fernando.albertengo@gmail.com
-web: https://calendly.com/falbertengo
+name: Gabriel Luciano Benítez 
+title: Técnico Superior en Logística
+email: lucianogrbenitez@gmail.com
+# web: https://calendly.com/benitezluciano
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: FalbertengoDev
-github_username:  Pra3t0r5
+# twitter_username: benitezluciano
+# github_username:  benitezluciano
 # stackoverflow_username: "10876680"
-# dribbble_username: Pra3t0r5
+# dribbble_username: benitezluciano
 # facebook_username: fernando.albertengo.9
 # flickr_username: jekyll
-instagram_username: falbertengo
-linkedin_username: fernando-albertengo20
+# instagram_username: benitezluciano
+linkedin_username: benitezluciano
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: UCR-B2xeA9tiugN0XsnmWKxA
@@ -31,12 +31,9 @@ linkedin_username: fernando-albertengo20
 
 # Additional icon links
 additional_links:
-- title: Calendly
-  icon: fas fa-calendar-plus
-  url: https://calendly.com/falbertengo
-# - title: falbertengo.dev
-#   icon: fas fa-globe
-#   url: https://github.com/Pra3t0r5/Pra3t0r5.github.io
+ - title: Whatsapp
+   icon: fas fa-whatsapp
+   url: https://api.whatsapp.com/send?phone=5493772409382
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,125 +43,73 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpeg
 about_content: | 
-  Hi, my name is Fernando Albertengo, I'm a full stack crossplatform developer with over 4 years experience currently specialising in React Native development.
-  I am currently working on Trique as a Fullstack Software Engineer and Proyect Manager on their social media app.
+  Hola, mi nombre es Gabriel Luciano Benítez, explicacion de <mark>Quien Soy</mark>, <mark>Que se hacer</mark> y <mark>Que quiero hacer</mark>
   
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
-  <mark>ES6 Javascript</mark>,
-  <mark>React, React Native &amp; Redux</mark>,
-  <mark>Angular 6+, Ionic &amp; Electron</mark>,
-  <mark>Node.js</mark>,
-  <mark>Java</mark>,
-  <mark>MySQL</mark>,
-  <mark>Mongo</mark>,
-  <mark>SASS &amp; CSS</mark>,
-  <mark>git</mark> and 
-  <mark>Firebase</mark>.
+  Mis datos personales y de contacto son:
+  DNI 42604273
+  Cel 3772409382
 
 content:
-  - title: Projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: Trique App
-        link: https://triqueapp.com/
-        additional_links:
-          - title:  Social Media
-            icon: fab fa-instagram
-            url: https://www.instagram.com/triqueapp/
-        quote: >
-          The social network of agriculture.
-        description: | 
-          Full-Stack development of social media application, based on monorepo-structured crossplatform <mark>MERN+ Stack</mark>, featuring both <mark>MongoDB</mark> and <mark>MariaDB</mark> connections, and a wide variety of third-party integrations with <mark>Google Cloud Services</mark>, <mark>Firebase</mark> (Auth/Messaging/Firestore), <mark>Apple Auth</mark>, <mark>Admob</mark>, and much more. Another of my main roles as of today are Project Management, Team lead, Tech Consultant.
-
-      - layout: top-middle
-        title: Crucijuegos Salas App
-        link: https://salas.crucijuegos.com/app
-        additional_links:
-          - title:  Crucijuegos SRL
-            icon: fab fa-globe
-            url: https://salas.crucijuegos.com/
-        description: | 
-          Full-Stack implementation of Customer Engagement mobile app, based on <mark>M*EAN Rational Stack</mark>. Featuring <mark>Ionic-Cordova</mark> and integrated to <mark>Twilio</mark>, <mark>OneSignal</mark>, <mark>FCM</mark> and <mark>MercadoPago</mark>.
-      
-      - layout: top-middle
-        title: UcQr App
-        link: https://play.google.com/store/apps/details?id=com.UltraCore.UcQR&hl=es
-        additional_links:
-          - title:  Milicic S.A
-            icon: fab fa-globe
-            url: http://www.milicic.com.ar/
-        description: | 
-          An <mark>Android Native</mark> app used by Milicic S.A. to scan QR codes on the sides of material transport trucks sending them to a dedicated API, wich registered the data lately used for various purposes.
-
-  - title: Experience
+  - title: Experiencia
     layout: list
     content:
       - layout: left
-        title: Tecso Coop.
-        link: https://tecso.coop/
-        sub_title: Ssr. Frontend Developer
-        caption: October 2021 - March 2022
+        title: Vía Bariloche S.A
+        link: https://www.viabariloche.com.ar/
+        sub_title: Encomiendas
+        caption: Febrero 2020 - Abril 2022
         description: | 
-          - Frontend <mark>Angular 11</mark> Client implementation for Tecso's Simplified Insurance API Project (SIAPI), intended to give a developer-friendly experience when integrating to insurance data by creating a new standard API protocol.
-
+          - Mas
+          - Info
+          - Sobre
+          - Tus
+          - Funciones
+         
+          Referencias:
+          - Francisco Alcaraz (3772-510593), franciscoalvear07@hotmail.com
       - layout: left
-        title: Crucijuegos SRL
-        link: http://www.crucijuegos.com/
-        sub_title: Fullstack Developer
-        caption: August 2018 - September 2021
-        description: | # - Full-Stack implementation of Customer Engagement mobile app, based on <mark>M*EAN Rational Stack</mark>. Featuring <mark>Ionic-Cordova</mark> and integrated to <mark>Twilio</mark>, <mark>OneSignal</mark>, <mark>FCM</mark> and <mark>MercadoPago</mark>.
-          - Full-Stack implementation of Customer Engagement desktop app, based on <mark>M*EAN Rational Stack</mark> with <mark>Electron.js</mark> as wrapper. Featured RFID card readers, giant touch screen, games and remote database connection.
-          - Full-Stack Web Development and Maintenance of legacy Administrative Systems with <mark>Java Spring/Hibernate</mark>, boasting more of 25 international <mark>MySQL</mark> databases.
-          - Full-Stack Desktop Development and Maintenance of legacy CRM Systems with <mark>Java Swing</mark>.
-          - International Dev Ops and Tech Support. Scripting with <mark>Bash</mark> and <mark>Python</mark>.
-          - Tech consultant.
-      
-      - layout: left
-        title: Ultracore SRL
-        link: https://www.ultracore.com.ar/
-        sub_title: Freelancer
-        caption: January 2020 - June 2021
-        description: | 
-          - Mobile app desing and development, starting with <mark>Android Native</mark>, lately migrating to <mark>React Native</mark> using Infinite Red's <mark>Ignite Boilerplate</mark>.
-          - Web development of a LMS.
-          - Design, development and manufacture of <mark>Arduino</mark> based low-cost security system for workplaces, boasting web server and remote database connection.
-          - Tech consultant.
-  - title: Languages
+        title: Vía Cargo S.A
+        link: https://www.viacargo.com.ar/
+        sub_title: Encomiendas
+        caption: Febrero 2020 - Abril 2022
+        description: |
+          - Mas
+          - Info
+          - Sobre
+          - Tus
+          - Funciones
+  - title: Inglés
     layout: list
     content:
       - layout: top-middle
-        title: English
-        sub_title: C1 - Advanced
-        link: https://drive.google.com/file/d/1JcrSqzHfOYJD6-1ZpVEtloXGm4StkKrk/view?usp=sharing
-        link_text: Oxford Placement Test
-      - layout: top-middle
-        title: Spanish 
-        sub_title: Native
-  - title: Education
+        title: Curso Nivel Adulto 1
+        sub_title: Speak up English Institute
+  - title: Educación
     layout: list
     content:
       - layout: left
-        title: Universidad Tecnologica Nacional
-        caption: 2012 - 2019
-        sub_title: Systems Engineering
-        quote: >
-          The National Technological University (UTN) was created to generate, preserve and transmit universal cultural and technical knowledge in the field of technology, being the only national university in the country with engineering as the central focus of its academic structure.
+        title: Instituto Superior de Formación docente de Alvear
+        caption: 2018 - 2022
+        sub_title: Técnico Superior en Logística 
         description: | 
-          During my time at UTN I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Descripcion de lo que aprendiste y tus logros como estudiante en la institucion
+      - layout: left
+        title: Colegio Secundaria Doctor Mamerto Acuña
+        caption: 2012 - 2017
+        sub_title: Bachiller en Economía y Administración
+        description: | 
+          Descripcion de lo que aprendiste y tus logros como estudiante en la institucion
 
-  - title: A Little More About Me
+  - title: Objetivos
     layout: text
     content: | 
-      Alongside my interest in software engineering some of my other interests and hobbies are:
-      - Cycling
-      - Gaming
-      - Roleplaying Warhammer40k
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Breve texto o listado de tus intereses y objetivos, tanto en lo laboral como personal para que te conozcan un poco mas incluso antes de la entrevista.
+      - Entrenar
+      - Aprender
+      - Jugar
+      - Leer
 
 # Footer
 footer_show_references: true
