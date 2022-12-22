@@ -54,6 +54,7 @@ about_content: |
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
   with something new. The things that I currently have the most experience working with are:
+  <mark>Typescript</mark>,
   <mark>ES6 Javascript</mark>,
   <mark>React, React Native &amp; Redux</mark>,
   <mark>Angular 6+, Ionic &amp; Electron</mark>,
@@ -104,6 +105,17 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Crehana Education
+        link: http://www.crehana.com/
+        sub_title: Senior Frontend Developer (React)
+        caption: May 2022 - Today
+        description: 
+          - Frontend development of Crehana's B2B web application featuring microfrontend architecture, <mark>Typescript React</mark>, <mark>Tailwind</mark>, <mark>Next.js</mark> and <mark>Apollo GraphQL</mark> among others. 
+          - Development and implementation of Crehana's new System UI project, featuring microlibraries architecture using Tailwind</mark>, Storybook</mark>, React</mark> and Typescript to achieve enhanced DX.
+          - Development and maintenance of Crehana's templated mailing project, featuring <mark>JavaScript</mark>, <mark>Handlebars</mark>, <mark>Mandril</mark> and <mark>Mailchimp</mark> among others.
+          - Writter of Crehana's Tech Blog.
+          
       - layout: left
         title: Tecso Coop.
         link: https://tecso.coop/
