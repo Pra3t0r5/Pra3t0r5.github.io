@@ -110,7 +110,7 @@ content:
         link: http://www.crehana.com/
         sub_title: Senior Frontend Developer (React)
         caption: May 2022 - Today
-        description: 
+        description: |
           - Frontend development of Crehana's B2B web application featuring microfrontend architecture, <mark>Typescript React</mark>, <mark>Tailwind</mark>, <mark>Next.js</mark> and <mark>Apollo GraphQL</mark> among others. 
           - Development and implementation of Crehana's new System UI project, featuring microlibraries architecture using Tailwind</mark>, Storybook</mark>, React</mark> and Typescript to achieve enhanced DX.
           - Development and maintenance of Crehana's templated mailing project, featuring <mark>JavaScript</mark>, <mark>Handlebars</mark>, <mark>Mandril</mark> and <mark>Mailchimp</mark> among others.
