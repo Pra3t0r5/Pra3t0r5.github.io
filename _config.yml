@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | 
-  Hi, my name is Fernando Albertengo, I'm a full stack crossplatform developer with over 4 years experience currently specialising in React Native development.
-  I am currently working on Trique as a Fullstack Software Engineer and Proyect Manager on their social media app.
+  Hi, my name is Fernando Albertengo, I'm a full stack crossplatform developer with over 4 years experience currently specialising in React Typescript development.
+  I am currently both working and cultivating my skills on Crehana Education as a Senior Frontend Developer.
   
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
@@ -59,7 +59,7 @@ about_content: |
   <mark>React, React Native &amp; Redux</mark>,
   <mark>Angular 6+, Ionic &amp; Electron</mark>,
   <mark>Node.js</mark>,
-  <mark>Java</mark>,
+  <mark>GraphQL</mark>,
   <mark>MySQL</mark>,
   <mark>Mongo</mark>,
   <mark>SASS &amp; CSS</mark>,
