@@ -112,7 +112,7 @@ content:
         caption: May 2022 - Today
         description: |
           - Frontend development of Crehana's B2B web application featuring microfrontend architecture, <mark>Typescript React</mark>, <mark>Tailwind</mark>, <mark>Next.js</mark> and <mark>Apollo GraphQL</mark> among others. 
-          - Development and implementation of Crehana's new System UI project, featuring microlibraries architecture using Tailwind</mark>, Storybook</mark>, React</mark> and Typescript to achieve enhanced DX.
+          - Development and implementation of Crehana's new System UI project, featuring microlibraries architecture using <mark>Tailwind</mark>, <mark>Storybook</mark>, <mark>React</mark> and <mark>Typescript</mark> to achieve enhanced DX.
           - Development and maintenance of Crehana's templated mailing project, featuring <mark>JavaScript</mark>, <mark>Handlebars</mark>, <mark>Mandril</mark> and <mark>Mailchimp</mark> among others.
           - Writter of Crehana's Tech Blog.
           
